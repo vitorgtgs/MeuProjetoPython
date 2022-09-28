@@ -17,6 +17,6 @@ Alguns comandos aprendidos:
 
 - git init (Cria um repositório vazio e oculto).
 - git status (Verifica o status do arquivo).
-- git add (Passa os arquivos do diretório para o repositório).
+- git add (Prepara os arquivos para serem commitados).
 - git show (Mostra o último commit).
 - git diff (Mostra as alterações feitas).
